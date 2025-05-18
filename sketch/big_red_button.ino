@@ -1,3 +1,6 @@
+// BIG RED BUTTON sketch for arduino
+// made for arduino micro
+
 #include <Keyboard.h>
 
 const char KEYS_TO_PRESS[] = { // ADD THE KEYS YOU WANT THE BUTTON TO PRESS INSIDE HERE
